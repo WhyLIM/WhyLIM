@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
   <div style="flex-basis: 100%; display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=WhyLIM&show_icons=true&theme=radical" height="180" alt="WhyLIM's GitHub stats" align="center" style="float: left; width: 48%; height: auto; margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WhyLIM&show_icons=true&theme=radical" height="185" alt="WhyLIM's GitHub stats" align="center" style="float: left; width: 48%; height: auto; margin-bottom: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyLIM&layout=compact" height="180" alt="Top Langs" align="center" style="float: left; width: 48%; height: auto; margin-bottom: 10px;" />
   </div>
 </div>
