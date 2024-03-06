@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ---
 
 - 🧬 I major in **Bioinformatics**
-- 🌱 I’m currently learning Single-Cell RNA-seq data analysis
+- 🌱 I’m currently learning Multi-omics Analysis
 - 🏥 I’m currently working at [**GDPH**](https://www.gdghospital.org.cn/en/)
 - 🕸️ My personal homepage: https://www.limina.top/
 - 📫 How to reach me: mli.bio@outlook.com
