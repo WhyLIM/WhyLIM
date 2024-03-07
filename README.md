@@ -31,8 +31,8 @@ I'm good at installing operating systems and their basic use. Like:
 #### Windows
 
 <div>
-  <img src="https://img.shields.io/badge/Windows%20XP-%235EC281?style=flat-square&logo=windows%20xp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%207-%23E3F5FC?style=flat-square&logo=windows%20xp&logoColor=gray" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Windows%20XP-%235EC281?style=flat-square&logo=windows%20xp&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Windows%207-%23E3F5FC?style=flat-square&logo=windows%20xp&logoColor=gray" />
   <img src="https://img.shields.io/badge/Windows%2010-%23009DF7?style=flat-square&logo=windows%2010&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%2011-%23E7FDFF?style=flat-square&logo=windows%2011&logoColor=gray" />
 </div>
