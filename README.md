@@ -16,11 +16,35 @@
 
 ---
 
+### About Me
+
 - 🧬 I major in **Bioinformatics**
 - 🌱 I’m currently learning Multi-omics Analysis
 - 🏥 I’m currently working at [**GDPH**](https://www.gdghospital.org.cn/en/)
 - 🕸️ My personal homepage: https://www.limina.top/
 - 📫 How to reach me: mli.bio@outlook.com
+
+### I'm an OS enthusiast
+
+I'm good at installing operating systems and their basic use. Like:
+
+#### Windows
+
+<div>
+  <img src="https://img.shields.io/badge/Windows%20XP-%235EC281?style=flat-square&logo=windows%20xp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%207-%23E3F5FC?style=flat-square&logo=windows%20xp&logoColor=gray" />
+  <img src="https://img.shields.io/badge/Windows%2010-%23009DF7?style=flat-square&logo=windows%2010&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%2011-%23E7FDFF?style=flat-square&logo=windows%2011&logoColor=gray" />
+</div>
+
+#### Linux
+
+<div>
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zorin-%2315A6F0?style=flat-square&logo=zorin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali-%231B51AD?style=flat-square&logo=kali%20linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CentOS-%23A14F8C?style=flat-square&logo=centos&logoColor=white" />
+</div>
 
 ### Contribution
 
