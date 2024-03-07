@@ -56,3 +56,11 @@ I'm good at installing operating systems and their basic use. Like:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyLIM&layout=compact" height="180" alt="Top Langs" align="center" style="float: left; width: 48%; height: auto; margin-bottom: 10px;" />
   </div>
 </div>
+
+### Activity
+
+---
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhyLIM&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+</div>
