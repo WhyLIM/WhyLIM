@@ -18,7 +18,7 @@
 
 ### About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=WhyLIM&show_icons=true&theme=radical" width="380px" alt="WhyLIM's GitHub stats" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=WhyLIM&show_icons=true&theme=tokyonight&rank_icon=github" width="380px" alt="WhyLIM's GitHub stats" align="right" />
 
 - 🧬 I major in **Bioinformatics**
 - 🌱 I’m currently learning Multi-omics Analysis
@@ -28,7 +28,7 @@
 
 ### I'm an OS enthusiast
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyLIM&layout=compact" width="380px" alt="Top Langs" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyLIM&layout=compact&theme=tokyonight&langs_count=10" width="380px" alt="Top Langs" align="right" />
 
 I'm good at installing operating systems and their basic use. Like:
 
