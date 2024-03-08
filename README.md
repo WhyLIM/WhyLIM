@@ -18,6 +18,8 @@
 
 ### About Me
 
+<img src="https://github-readme-stats.vercel.app/api?username=WhyLIM&show_icons=true&theme=radical" height="190" alt="WhyLIM's GitHub stats" align="right" style="float: left; width: 48%; height: auto; margin-bottom: 10px;" />
+
 - 🧬 I major in **Bioinformatics**
 - 🌱 I’m currently learning Multi-omics Analysis
 - 🏥 I’m currently working at [**GDPH**](https://www.gdghospital.org.cn/en/)
@@ -25,6 +27,8 @@
 - 📫 How to reach me: mli.bio@outlook.com
 
 ### I'm an OS enthusiast
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyLIM&layout=compact" height="180" alt="Top Langs" align="right" style="float: left; width: 48%; height: auto; margin-bottom: 10px;" />
 
 I'm good at installing operating systems and their basic use. Like:
 
