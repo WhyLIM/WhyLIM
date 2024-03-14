@@ -41,13 +41,14 @@ I'm good at installing operating systems and their basic use. Like:
   <img src="https://img.shields.io/badge/Windows%2011-%23E7FDFF?style=flat-square&logo=windows%2011&logoColor=gray" />
 </div>
 
-#### Linux
+#### Linux/Unix
 
 <div>
   <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Zorin-%2315A6F0?style=flat-square&logo=zorin&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-%231B51AD?style=flat-square&logo=kali%20linux&logoColor=white" />
   <img src="https://img.shields.io/badge/CentOS-%23A14F8C?style=flat-square&logo=centos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackintosh-black?style=flat-square&logo=apple&logoColor=white" />
 </div>
 
 ### Contribution
