@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/PYTHON-%235A8693?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/R-%23D26E3A?style=flat-square&logo=r&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-%23EEA23B?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-%23D8491D?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-%23D8491D?style=flat-square&logo=css&logoColor=white" />
     <img src="https://img.shields.io/badge/JAVASCRIPT-%23855C3E?style=flat-square&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-%23787CB5?style=flat-square&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/VUE-%2342b883?style=flat-square&logo=vue.js&logoColor=white" />
