@@ -22,7 +22,7 @@
 
 - 🧬 I major in **Bioinformatics**
 - 🌱 I’m currently learning Multi-omics Analysis
-- 🏥 I’m currently working at [**GDPH**](https://www.gdghospital.org.cn/en/)
+- 🏥 I’m currently working at [**SIAT**](https://english.siat.ac.cn/)
 - 🕸️ My personal homepage: https://www.limina.top/
 - 📫 How to reach me: mli.bio@outlook.com
 
