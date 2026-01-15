@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats-fast.vercel.app/api?username=WhyLIM&show_icons=true&theme=tokyonight&rank_icon=github" width="380px" alt="WhyLIM's GitHub stats" align="right" />
 
 - 🧬 I major in **Bioinformatics**
-- 🌱 I’m currently learning Multi-omics Analysis
+- 🌱 I focus on Multi-omics Analysis and LLM-based Development
 - 🏥 I’m currently working at [**SIAT**](https://english.siat.ac.cn/)
 - 🕸️ My personal homepage: https://www.limina.top/
 - 📫 How to reach me: mli.bio@outlook.com
