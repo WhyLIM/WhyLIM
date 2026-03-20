@@ -23,7 +23,7 @@
 - 🧬 I major in **Bioinformatics**
 - 🌱 I focus on Multi-omics Analysis and LLM-based Development
 - 🏥 I’m currently working at [**SIAT**](https://english.siat.ac.cn/)
-- 🕸️ My personal homepage: https://www.limina.top/
+- 🕸️ My personal homepage: https://whylim.cn/  or _old_:  https://www.limina.top/
 - 📫 How to reach me: mli.bio@outlook.com
 
 ### I'm an OS enthusiast
