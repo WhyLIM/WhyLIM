@@ -18,7 +18,7 @@
 
 ### About Me
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=WhyLIM&show_icons=true&theme=tokyonight&rank_icon=github" width="380px" alt="WhyLIM's GitHub stats" align="right" />
+<img src="https://github-readme-extended.vercel.app/api?username=WhyLIM&show_icons=true&theme=tokyonight&rank_icon=github" width="380px" alt="WhyLIM's GitHub stats" align="right" />
 
 - 🧬 I major in **Bioinformatics**
 - 🌱 I focus on Multi-omics Analysis and LLM-based Development
@@ -28,7 +28,7 @@
 
 ### I'm an OS enthusiast
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WhyLIM&layout=compact&theme=tokyonight&langs_count=10" width="380px" alt="Top Langs" align="right" />
+<img src="https://github-readme-extended.vercel.app/api/top-langs/?username=WhyLIM&layout=compact&theme=tokyonight&langs_count=10" width="380px" alt="Top Langs" align="right" />
 
 I'm good at installing operating systems and their basic use. Like:
 
@@ -55,6 +55,6 @@ I'm good at installing operating systems and their basic use. Like:
 
 ---
 
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhyLIM&theme=github-compact&area=true&area_color=00C5A1&custom_title=Activity&radius=10&hide_border=true&height=500" alt="Activity Graph"> | <img src="codingcat.gif" alt="Coding Cat"> |
+| <img src="https://github-act-graph.rodriaum.com/graph?username=WhyLIM&theme=github-compact&area=true&area_color=00C5A1&custom_title=Activity&radius=10&hide_border=true&height=500" alt="Activity Graph"> | <img src="codingcat.gif" alt="Coding Cat"> |
 | ------------- | ------------- |
 
